@@ -1,0 +1,31 @@
+#div-um{
+    float: left;
+    margin-left: 30px;
+}
+#div-dois{
+    float: left;
+    margin-left: 22px;
+}
+#div-tres{
+    float: left;
+    margin-left: 22px;
+    margin-right: 0px;
+}
+#lbl-um{
+    margin-left: 150px;
+}
+#lbl-dois{
+    margin-left: 140px;
+}
+#lbl-tres{
+    margin-left: 135px;
+}
+#bt-um{
+    margin-left: 165px;
+}
+#bt-dois{
+    margin-left: 170px;
+}
+#bt-tres{
+    margin-left: 175px;
+}
